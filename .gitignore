@@ -1,0 +1,8 @@
+# vscode
+.vscode/
+
+/test
+
+/data
+
+**/tempCodeRunnerFile.py
